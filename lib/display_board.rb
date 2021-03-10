@@ -1,5 +1,5 @@
-def display_board(rows)
-  puts row = [" ", "|", " ", "|", " "]
+def display_board(situations)
+  puts row_1 = [" ", "|", " ", "|", " "]
   puts separator = "-----------"
   puts row
   puts separator
